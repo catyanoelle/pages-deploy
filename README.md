@@ -1,2 +1,2 @@
 # pages-deploy
-Example of using GitHub continuous integration and continuous deployment
+Example of using GitHub CD to deploy a webpage.
